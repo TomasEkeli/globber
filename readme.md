@@ -4,6 +4,11 @@ got tired of not having to jump through hoops to test glob patterns on windows. 
 application called "globber" that takes a glob pattern and returns the files that match in the current
 directory.
 
+## how to get the app
+
+it's over there under "releases" - click that and download the exe. it's not a virus, i made it myself just 
+now. don't trust me? download the code and build it yourself.
+
 ## how to build
 
 download the code and buid it (you need the [dotnet sdk](https://dotnet.microsoft.com/download))
